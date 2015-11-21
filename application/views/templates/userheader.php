@@ -41,7 +41,7 @@ Date: 26-07-2014
         <div class="wrapper">
           <img src="<?php echo $pathPrefix; ?>images/logo.png" height="82" width="115" style="float:left; position:absolute; top:15px;">    
           <img src="<?php echo $pathPrefix; ?>images/logo.gif" width="153" height="60" style="margin-left:150px;">
-         <!-- <h1><a href="index.html" id="logo">nCORETech</a></h1> --> 
+          
 
           <span style="z-index:100; position:absolute; margin-top:70px; margin-left:-150px; color:#FFF;">Automated Conference Organizer</span>
           <div class="right">

@@ -1,7 +1,7 @@
 <script type="text/javascript">
 
 function changeText(cont2,speed){
-    var Otext=[<?php foreach ($news as $news_item): ?> <?php echo '"'.$news_item['nwsTitle'].'",' ?> <?php endforeach ?>,"Latest Updates : nCORETech"];//cont1.text();
+    var Otext=[<?php foreach ($news as $news_item): ?> <?php echo '"'.$news_item['nwsTitle'].'",' ?> <?php endforeach ?>,"Latest Updates : ACO"];//cont1.text();
     var Ocontent=Otext[0].split("");
     var i=0;
 	var k=200;
